@@ -1,6 +1,16 @@
 .title {
     text-align: center;
     color:white;
+    text-decoration: none;
+    
+}
+
+.title_link a{
+    color:white !important;
+}
+
+.title_link a:hover {
+    text-decoration: none;
 }
 
 .navbar .navbar-nav  {
@@ -13,7 +23,8 @@
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+/* font-family: "Arial", "Helvetica", "sans-serif";*/
+font-family: 'Dosis', sans-serif !important;
   font-size: 12px;
   line-height: 1.42857143;
   color: #ffffff;
@@ -70,7 +81,7 @@ body {
     background-color: #460d29;
     display:block;
     height: 10%;
-    font-size: 12px;
+    font-size: 14px;
     padding:3% 0 3% 0;
     text-align: center;
     margin: 5% 0 0 0 ;
