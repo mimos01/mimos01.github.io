@@ -133,11 +133,11 @@ body {
 .navbar-custom .navbar-toggle {
     background-color:#eeeeee !important;;
 }
-.navbar-custom .icon-bar {
+/*.navbar-custom .icon-bar {
     background-color:transparent !important;;
-}
+}*/
 
-.navbar-custom .navbar-nav .dropdown-menu  { 
+/*.navbar-custom .navbar-nav .dropdown-menu  { 
   background-color:transparent !important;;
 }
 .navbar-custom .navbar-nav .dropdown-menu>li>a  { 
@@ -145,4 +145,4 @@ body {
 }
 .navbar-custom .navbar-nav .dropdown-menu>li>a:hover,.navbar-custom .navbar-nav .dropdown-menu>li>a:focus  { 
   color: #fff !important;;
-}
+}*/
