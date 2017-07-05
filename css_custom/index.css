@@ -109,8 +109,8 @@ body {
 }
 
 .navbar-custom .navbar-nav > .active > a {
-    color: #ffffff !important;;
-    background-color:transparent;
+    color: #ff9694 !important;
+    background-color: inherit !important;
 }
 
 .active-link{
