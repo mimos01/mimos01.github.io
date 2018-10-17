@@ -96,6 +96,13 @@ font-family: 'Dosis', sans-serif !important;
     margin: 2% 3% 0 3%;
 }
 
+.img-header {
+    margin:auto;
+    display: block;
+    max-width:50%;
+    max-height: 15vh;
+}
+
 .image-custom{
     margin:auto;
     display: block;
